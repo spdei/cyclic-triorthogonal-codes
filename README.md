@@ -1,6 +1,6 @@
 # Cyclic triorthogonal codes in prime dimension
 
-Code and data for the paper *Cyclic triorthogonal codes in prime dimension* by Shiroman Prakash.
+Code and data for the paper *Cyclic triorthogonal codes in prime dimension* by Shiroman Prakash: https://arxiv.org/abs/2610.08012.
 
 The code enumerates cyclic triorthogonal codes for p = 2, 3, 5, 7 using sumset conditions on
 spectral supports. It certifies their distances, and computes their distillation performance.
